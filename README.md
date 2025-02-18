@@ -2,6 +2,9 @@
 Enhanced Customer Data Analysis and Sales Reporting Dashboard
 
 The link to the added table to help in consumer behaviour when it comes to shipping: https://docs.google.com/spreadsheets/d/18E-Mtib4XsO5usl9f3k6spIxpRlXCuWcLJxjDuA2CF8/edit?usp=sharing
+
+The link to the dashboard done using Tableau: https://public.tableau.com/app/profile/joan.njuguna/viz/AdwentureWorksSprint2_4_17251930987300/Dashboard1
+
 In this project, I leveraged SQL queries and Tableau to provide in-depth insights into customer behavior and sales performance, aiming to support business decision-making. The dashboard has been designed to be more interactive, user-friendly, and aligned with company branding while offering new analytical perspectives and KPIs.
 
 Key Features and Improvements:
